@@ -60,7 +60,7 @@
 
 ### 📫 Let's Connect
 
-- 📬 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 📬 Youtube: [[youremail@example.com](https://youtube.com/@niharikagovindreddy-pl2tr?si=SkzyUHP7srXTEYDt)](mailto:youremail@example.com)  
 - 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 💻 Portfolio: [yourwebsite.com](https://yourwebsite.com) (optional)
 
@@ -68,7 +68,7 @@
 
 ### 🌟 Fun Fact
 
-> "The best way to predict the future is to invent it." – Alan Kay
+> "🧠The human brain processes about 11 million bits of information per second, but we’re only consciously aware of about 40 bits. That’s basically like your brain running on parallel processing while your thoughts are still on single-threaded mode! 😄" – 
 
 ---
 
