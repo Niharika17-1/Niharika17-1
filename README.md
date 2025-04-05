@@ -62,7 +62,8 @@
 
 - 📺 YouTube: [@niharikagovindreddy](https://youtube.com/@niharikagovindreddy-pl2tr?si=SkzyUHP7srXTEYDt)  
 - 💼 LinkedIn: [Niharika G](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 💻 Portfolio: [yourwebsite.com](https://yourwebsite.com) (optional)
+- 📄 [Download My Resume](https://github.com/yourusername/yourusername/blob/main/RESUME-NiharikaG.pdf)
+
 
 ---
 
