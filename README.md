@@ -10,10 +10,10 @@
   <a href="https://github.com/username">
     <img src="https://img.shields.io/github/followers/username?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail" alt="Email"/>
+  <a href="https://youtube.com/@niharikagovindreddy-pl2tr?si=SkzyUHP7srXTEYDt">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube" alt="YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
@@ -60,15 +60,15 @@
 
 ### 📫 Let's Connect
 
-- 📬 Youtube: [[youremail@example.com](https://youtube.com/@niharikagovindreddy-pl2tr?si=SkzyUHP7srXTEYDt)](mailto:youremail@example.com)  
-- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 📺 YouTube: [@niharikagovindreddy](https://youtube.com/@niharikagovindreddy-pl2tr?si=SkzyUHP7srXTEYDt)  
+- 💼 LinkedIn: [Niharika G](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 💻 Portfolio: [yourwebsite.com](https://yourwebsite.com) (optional)
 
 ---
 
 ### 🌟 Fun Fact
 
-> "🧠The human brain processes about 11 million bits of information per second, but we’re only consciously aware of about 40 bits. That’s basically like your brain running on parallel processing while your thoughts are still on single-threaded mode! 😄" – 
+> 🧠 **The human brain processes about 11 million bits of information per second**, but we’re only consciously aware of about **40 bits**. That’s basically like your brain running on parallel processing while your thoughts are still on single-threaded mode! 😄
 
 ---
 
