@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/username/username/main/assets/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm [Niharika G]</h1>
+<h1 align="center">Hi 👋, I'm Niharika G</h1>
 <h3 align="center">🚀 Data Science Engineer | Lifelong Learner | Tech Enthusiast</h3>
 
 <p align="center">
@@ -53,9 +53,8 @@
 
 ### 🚀 Projects
 
-- 🔬 **AI-Powered Healthcare Chatbot** – A smart assistant offering first-aid suggestions, Ayurvedic medicine recommendations, doctor recommendations, and symptom triage.
-- 📊 **Movie Rating Predictor** – ML-based model predicting IMDb-style ratings based on metadata.
-- ⛴️ **Titanic Survival Prediction** – Data analysis and ML model to predict survival outcomes using the Titanic dataset.
+- 💬 **Automatic Speech to Sign Language Translator** – Converts spoken language into real-time animated sign language visuals using NLP and computer vision. Designed to bridge communication gaps for the hearing-impaired community.
+- 🤖 **AI-Powered Healthcare Chatbot** – A smart assistant offering first-aid suggestions, Ayurvedic medicine recommendations, doctor recommendations, and symptom triage.
 
 ---
 
