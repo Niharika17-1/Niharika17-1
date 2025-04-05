@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/username/username/main/assets/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Niharika G]</h1>
 <h3 align="center">🚀 Data Science Engineer | Lifelong Learner | Tech Enthusiast</h3>
 
 <p align="center">
@@ -62,7 +62,7 @@
 ### 📫 Let's Connect
 
 - 📬 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 💻 Portfolio: [yourwebsite.com](https://yourwebsite.com) (optional)
 
 ---
