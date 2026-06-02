@@ -53,9 +53,25 @@
 
 ### 🚀 Projects
 
-- 💬 **Automatic Speech to Sign Language Translator** – Converts spoken language into real-time animated sign language visuals using NLP and computer vision. Designed to bridge communication gaps for the hearing-impaired community.
-- 🤖 **AI-Powered Healthcare Chatbot** – A smart assistant offering first-aid suggestions, Ayurvedic medicine recommendations, doctor recommendations, and symptom triage.
-
+- 💬 **Automatic Speech to Sign Language Translator**
+Developed a real-time system that converts spoken language into animated sign language gestures.
+Utilizes Speech Recognition, NLP, and Computer Vision techniques for accurate translation.
+Enhances accessibility and communication for hearing-impaired individuals.
+Supports real-time speech-to-text conversion and sign language visualization.
+- 🤖 **Symptom Analysis and Treatment Recommendation Chatbot**
+Developed an AI-powered healthcare chatbot that analyzes user symptoms and provides intelligent treatment recommendations.
+Utilized Machine Learning algorithms to predict possible diseases based on user-reported symptoms.
+Integrated both Ayurvedic and Modern Medicine treatment approaches, offering users comprehensive healthcare guidance.
+Provides first-aid assistance, home remedies, precautionary measures, and personalized treatment suggestions.
+Recommends appropriate Ayurvedic medicines, modern medications, and specialist doctors based on the identified condition.
+Maintains patient records, symptom history, and treatment recommendations for future reference and continuity of care.
+Designed with a user-friendly interface to support quick symptom assessment and healthcare decision-making.
+-🗣️ **AI Debate Coach**
+Built an AI-powered debate training platform to help users improve public speaking and argumentation skills.
+Generates debate topics and evaluates arguments based on logic, relevance, and clarity.
+Provides real-time feedback on speech delivery, confidence, fluency, and rebuttal quality.
+Uses Natural Language Processing (NLP) to analyze responses and suggest improvements.
+Includes performance tracking, scoring, and personalized recommendations for continuous skill development.
 ---
 
 ### 📫 Let's Connect
