@@ -79,6 +79,7 @@ Includes performance tracking, scoring, and personalized recommendations for con
 - 📺 YouTube: [@niharikagovindreddy](https://youtube.com/@niharikagovindreddy-pl2tr?si=SkzyUHP7srXTEYDt)  
 - 💼 LinkedIn: [Niharika G](https://www.linkedin.com/in/niharika-g-416873310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 📄 [Download My Resume](file:///C:/Users/Niharika/Documents/RESUME%20-Niharika%20G.pdf)
+- Portfolio: (https://curious-caramel-41fd4b.netlify.app/)
 
 
 ---
